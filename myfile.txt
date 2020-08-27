@@ -1,7 +1,4 @@
-hello.Today is 22nd of August.We started working on git.
-Second line.
-or create a new repository on the command line
-echo "# gitproject" >> README.md
+Agenda for today:
 git init
 git add README.md
 git commit -m "first commit"
@@ -16,3 +13,6 @@ git push -u origin master
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
+-git collaboration
+-git push
+-git pull
