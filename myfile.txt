@@ -16,3 +16,5 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 -git collaboration
 -git push
 -git pull
+
+Changes from my pc before getting github changes
